@@ -1,5 +1,9 @@
 # Material de Git
 
+
+#### Tour
+* [Git How To]
+
 #### Curso
 * [Git e Github para iniciantes]
 
@@ -34,6 +38,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
+[Git How To]: https://githowto.com/pt-BR
 [Git e Github para iniciantes]: https://www.udemy.com/git-e-github-para-iniciantes/
 [Documentação do git]: https://git-scm.com/doc
 [List of useful git commands]: https://github.com/bpassos/git-commands
