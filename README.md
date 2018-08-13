@@ -3,6 +3,9 @@
 #### Curso
 * [Git e Github para iniciantes]
 
+#### Documentação 
+* [Documentação do git]
+
 #### Comandos
 * [List of useful git commands]
 * ["How to Use GitHub" By Siraj Raval]
@@ -32,6 +35,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 5. Crie um novo _Pull Request_
 
 [Git e Github para iniciantes]: https://www.udemy.com/git-e-github-para-iniciantes/
+[Documentação do git]: https://git-scm.com/doc
 [List of useful git commands]: https://github.com/bpassos/git-commands
 ["How to Use GitHub" By Siraj Raval]: https://github.com/llSourcell/How-to-Use-GitHub
 [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub]: https://github.com/jlord/git-it-electron
