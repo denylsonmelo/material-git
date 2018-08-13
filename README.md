@@ -1,5 +1,5 @@
 # Material de Git
-
+Material de sugestão como base para o inicio de estudos sobre git
 
 #### Tour
 * [Git How To]
