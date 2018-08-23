@@ -5,6 +5,7 @@ Material de sugestão como base para o inicio de estudos sobre git
 * [Git How To]
 
 #### Curso
+* [Github no Full]
 * [Git e Github para iniciantes]
 
 #### Documentação 
@@ -40,6 +41,7 @@ Sinta-se livre para sugerir melhorias, materiais e outras contribuições via Is
 
 [Git How To]: https://githowto.com/pt-BR
 [Git e Github para iniciantes]: https://www.udemy.com/git-e-github-para-iniciantes/
+[Github no Full]: http://www.capitalcode.com.br/dashboard/apresentacao/cursos/1/Github-no-Full
 [Documentação do git]: https://git-scm.com/doc
 [List of useful git commands]: https://github.com/bpassos/git-commands
 ["How to Use GitHub" By Siraj Raval]: https://github.com/llSourcell/How-to-Use-GitHub
